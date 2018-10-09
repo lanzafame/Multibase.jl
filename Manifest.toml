@@ -1,9 +1,9 @@
 [[Base58]]
 deps = ["SHA"]
-git-tree-sha1 = "c4f3f0a6fdc9bd43b9aefc9a6be593353be924ad"
+git-tree-sha1 = "ba5e72335f91f79fefb2db241555d04af6eb85cd"
 repo-rev = "master"
-repo-url = "https://github.com/gdkrmr/Base58.jl"
-uuid = "cd69c2b6-61a9-11e8-2f97-43be76787307"
+repo-url = "https://github.com/lanzafame/Base58.jl.git"
+uuid = "d21d672e-cba1-11e8-2fdb-f18a75f6a941"
 version = "0.1.0"
 
 [[Base64]]

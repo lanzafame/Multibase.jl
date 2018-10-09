@@ -1,2 +1,2 @@
-# jl-multibase
+# Multibase.jl
 
